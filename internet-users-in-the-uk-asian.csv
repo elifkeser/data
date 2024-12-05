@@ -1,4 +1,4 @@
-"Measure","Time","Time_type","Ethnicity","Ethnicity_type","Geography","Geography_type","Age Bracket","Percentage","Percentage: Lower bound","Percentage: Upper bound","Estimated number of people (thousands)","Estimated number of people (thousands): lower bound","Estimated number of people (thousands): upper bound","Note"
+"Measure","Time","Time_type","ethnicity","Ethnicities","region","Geography_type","Age Bracket","percentage","Percentage: Lower bound","Percentage: Upper bound","Estimated number of people (thousands)","Estimated number of people (thousands): lower bound","Estimated number of people (thousands): upper bound","Note"
 "Used the internet in the last 3 months","2018","Year","Asian","White,Asian,Black and Other","North East","Region","16+","?","?","?","?","?","?",""
 "Used the internet in the last 3 months","2018","Year","Asian","White,Asian,Black and Other","North West","Region","16+","92.7","89.2","96.3","264","254","274",""
 "Used the internet in the last 3 months","2018","Year","Asian","White,Asian,Black and Other","Yorkshire and the Humber","Region","16+","91.1","87.1","95.1","242","231","253",""
